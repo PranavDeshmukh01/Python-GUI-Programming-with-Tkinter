@@ -1,4 +1,4 @@
-from tkinter import *   #we do not required to use tkinter.___ any time,we can directly call the function without using tkinter.____.
+from tkinter import *    
 from tkinter import ttk  
 
 feet = None 
